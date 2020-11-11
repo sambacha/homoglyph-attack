@@ -1,22 +1,28 @@
+## ENS homoglyphs
+
+> this is a well know attack vector 
+
 #### which `ychad.eth` is fake?
+
+> note: markup doesnt change this
 
 ```txt
 ychad.eth
 ```
 
-```applescript
+```js
 уchad.eth
 ```
 
-```javascript
+```markdown
 уchad.eth
 ```
-```javascript
+```bash
 ychad.eth
 ```
 
 
-### homoglyph attacks on ENS names
+### homoglyphs attacks on ENS names
 
 points of attack: 
 - front end (users)
