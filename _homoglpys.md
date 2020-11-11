@@ -1,1 +1,0 @@
-![](https://cdn.mathpix.com/snip/images/O2unLC2GnbmpLO8hGfmhuRetQK52Tt3ai0dberNB1xY.original.fullsize.png)
