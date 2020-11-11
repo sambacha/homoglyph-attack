@@ -5,14 +5,14 @@
 ychad.eth
 ```
 
-```txt
+```applescript
 уchad.eth
 ```
 
-```bash
+```javascript
 уchad.eth
 ```
-```bash
+```javascript
 ychad.eth
 ```
 
