@@ -1,19 +1,4 @@
-
-
-### homoglyph attacks on ENS
-
-points of attack: 
-- front end (users)
-- malicous third party
-
-### remediation
-
-use fully qualified check-sum address for transactions of value
-
-
-### no markup usage in documentation 
-
-> Even 'highlighting' does not help with GFM
+#### which `ychad.eth` is fake?
 
 ```txt
 ychad.eth
@@ -29,6 +14,18 @@ ychad.eth
 ```javascript
 ychad.eth
 ```
+
+
+### homoglyph attacks on ENS names
+
+points of attack: 
+- front end (users)
+- malicous third party
+
+### remediation
+
+use fully qualified check-sum address for transactions of value
+
 
 ##### references 
 
